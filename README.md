@@ -1,2 +1,3 @@
 # hello-world
-My first repository in Git :3
+Chatuba de Mesquita,
+Come a mina de geral
